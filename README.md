@@ -2,7 +2,7 @@
 
 ## 📘 Introducción
 
-Este proyecto tiene como objetivo la **detección de tumores cerebrales** utilizando **modelos generativos adversarios (GANs)**. Los tumores cerebrales son crecimientos anormales de células en el cerebro, que pueden ser benignos o malignos. En España, se detectan aproximadamente **5000 casos** de tumores cerebrales anualmente, subrayando la necesidad de métodos avanzados de detección basados en **inteligencia artificial (IA)**.
+Este proyecto tiene como objetivo la **generación de imágenes de tumores cerebrales** utilizando **generative adversarial networks (GANs)**. Los tumores cerebrales son crecimientos anormales de células en el cerebro, que pueden ser benignos o malignos. En España, se detectan aproximadamente **5000 casos** de tumores cerebrales anualmente, subrayando la necesidad de métodos avanzados de generación de imágenes basados en **inteligencia artificial (IA)** con el fin de desarrollar otros algoritmos para la detección temprana de esta enfermedad.
 
 ## 🎯 Objetivos
 
