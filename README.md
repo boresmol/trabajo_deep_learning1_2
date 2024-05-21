@@ -1,4 +1,4 @@
-# Proyecto de Generación de Imágenes de Tumores Cerebrales mediante Generative Adversarial Networks (GAN)
+# Generación de Imágenes de Tumores Cerebrales mediante Generative Adversarial Networks (GAN)
 
 ## 📘 Introducción
 
